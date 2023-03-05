@@ -1,2 +1,1 @@
-# Prepcourse
-Repositorio de prueba
+Este repositorio es una prueba
